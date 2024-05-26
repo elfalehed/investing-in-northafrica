@@ -1,7 +1,7 @@
 # investing-in-northafrica
 🌌 data preprocessing scripts, exploratory data analysis notebooks, and machine learning models designed to predict the most valuable investment assets on a continent, considering factors like culture, technology, and agriculture. It also includes deployment guides and examples for real-world applications.
 
--- note: some of the content on this repository it taken from pre existing templates and other ai generated content to iterate from. We'll take whats necessary to edit and cover it with guidelines to follow in order to reach the targeted result. If you have any questions, feel free to leave an issue or a pull request to edit the content or code. Thank you! 
+`-- note: some of the content on this repository it taken from pre existing templates and other ai generated content to iterate from. We'll take whats necessary to edit and cover it with guidelines to follow in order to reach the targeted result. If you have any questions, feel free to leave an issue or a pull request to edit the content or code. Thank you!`
 
 How can you start? 
 
