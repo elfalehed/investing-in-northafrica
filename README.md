@@ -14,9 +14,9 @@ Clearly define the problem and objectives:
 - **Scope:** Include factors like culture, timing, technology, agriculture, natural resources, and more.
 
 
-<p style="color: red;">
+<i>
 Culture can influence investment decisions by affecting consumer behavior, business practices, and market dynamics. It can help identify potential Oopportunities and risks that are unique to specific regions or communities. Moderating the necessary /possible approaches to pin down the most viable investing opportunities won't be easy to do. We'll add some guidemlines below!
-</p>
+</i>
 
 
 
