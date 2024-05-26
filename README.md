@@ -3,6 +3,9 @@
 
 `-- note: some of the content on this repository it taken from pre existing templates and other ai generated content to iterate from. We'll take whats necessary to edit and cover it with guidelines to follow in order to reach the targeted result. If you have any questions, feel free to leave an issue or a pull request to edit the content or code. Thank you!`
 
+![Red Text Badge](https://img.shields.io/badge/Custom-Red-red)
+
+
 How can you start? 
 
 ### 1. Define the Problem
